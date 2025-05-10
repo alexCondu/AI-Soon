@@ -1,0 +1,5 @@
+*.zip
+*.json
+I-Soon-data/
+organized_data/
+parsed_html_to_csv/
