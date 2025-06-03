@@ -1,0 +1,697 @@
+gemma3:27b,7shi/llama-translate:8b-q4_K_M,yi:34b,Levenshtein (gemma3:27b vs 7shi/llama-translate:8b-q4_K_M),Levenshtein (gemma3:27b vs yi:34b),Levenshtein (7shi/llama-translate:8b-q4_K_M vs yi:34b)
+I am null_whoami,My name is null_whoami.,I am null_whoami,8.0,0.0,8.0
+"Mr. Wei, roughly what aspect are you referring to?",It's about something related to Twitter.,"Vice President Wei, what area is it?",42.0,36.0,33.0
+"There are some searches on Twitter, monitoring k.","Translate Mandarin to English. Below is a series of related messages. Context:
+我是null_whoami
+方便语音通话吗？
+周总，您好，我这有几个号码想请您帮忙看看
+魏总，您发我一下？”
+
+Message to translate:
+方便语音通话吗？","Twitter has some leaks, check k",139.0,35.0,146.0
+I'll find you an account and have you take a look.,"Translate the given text from Mandarin to English, considering the provided context and instructions. If no additional information is available, use your expertise in linguistics to determine an appropriate translation that maintains a natural tone while accurately conveying the meaning of the original text. When translating technical terms or proper nouns, either leave them as they are in the source language or use suitable translations when necessary. Take a deep breath, relax, and begin translating.",I'll find an account for you and let you have a look when I get back.,465.0,34.0,450.0
+Is a voice call convenient?,"I'm null_whoami.
+General Wei, is it about something specific? Twitter has some checks and k monitoring. \
+Can you give me an account later to help me check this out? \
+Is voice call convenient for you? \
+Hello General Zhou, I have a few numbers here that I want to ask you to help me look at them. \
+General Wei, can you DM me the number?",Can we talk on the phone?,316.0,19.0,320.0
+,,,,,
+"Hello Mr. Zhou, I have a few numbers here I'd like you to help me check.",I have a few numbers here that I want to ask you to help me check out.,"Hello President Zhou, I have a few numbers here that I would like to ask for your help to take a look at.",36.0,44.0,48.0
+"Mr. Wei, please send it to me.","Translate French to English. Below is a series of related messages. Context: You're the best, you always make it easy to understand. I'm sure you'll do great with your new project. Best regards.
+Voici ce que je te propose : 1. J'adore travailler avec toi et j'espère que tu seras aussi content de travailler avec moi. 2. La vie est courte, mais les souvenirs durent éternellement ! 3. J'aime ta manière de me voir dans le miroir du matin, avec mes cheveux décoiffés et ma robe déchirée... C'est l'âme même des hommes.","Send it to me, Mr. Wei.",489.0,23.0,497.0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+e705d192-90ee-4fd1-9dcd-061958d1817f.png 0-e705d192-90ee-4fd1-9dcd-061958d1817f.png,"Translate English to French. Below is a series of related messages. Context:
+Monsieur Wei, envoyer un SMS à mon numéro.
+5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png
+4ea07c23-a1a6-411b-bcfb-552d095b66c9.png 0-4ea07c23-a1a6-411b-bcfb-552d095b66c9.png
+
+Vérifier et supprimer toutes les transactions, le dernier compte est avec l'adresse e-mail de g.
+Reçu
+Merci.",e705d192-90ee-4fd1-9dcd-061958d1817f.png 0-e705d192-90ee-4fd1-9dcd-061958d1817f.png,355.0,0.0,355.0
+5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png,"Translate English to Mandarin. Below is a series of related messages. Context:
+ 5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png
+ e705d192-90ee-4fd1-9dcd-061958d1817f.png 0-e705d192-90ee-4fd1-9dcd-061958d1817f.png
+ 4ea07c23-a1a6-411b-bcfb-552d095b66c9.png 0-4ea07c23-a1a6-411b-bcfb-552d095b66c9.png
+全部推账户，最后那个是用g的邮箱申请的推账户
+收到
+谢谢您
+还有如果我这想做个针对脸 
+书的平台大约经费需要多少，时间多久？目前，您那边有什么比较成熟的好用产品，简单介绍文档方便发一份过来吗？”
+
+Message to translate:
+ 5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png",Received and acknowledged for the Twitter account associated with image 5a84cde3-7175-4044-8c88-d4c883a8fd38.,456.0,68.0,465.0
+4ea07c23-a1a6-411b-bcfb-552d095b66c9.png 0-4ea07c23-a1a6-411b-bcfb-552d095b66c9.png,"Translate French to English. Below is a series of related messages. Context:
+ e705d192-90ee-4fd1-9dcd-061958d1817f.png 0-e705d192-90ee-4fd1-9dcd-061958d1817f.png
+ 5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png
+ 4ea07c23-a1a6-411b-bcfb-552d095b66c9.png 0-4ea07c23-a1a6-411b-bcfb-552d095b66c9.png
+ Tout les comptes Twitter, le dernier est un compte Twitter créé avec une adresse e-mail qui commence par g.
+ Reçu Merci. J'ai appris que vous ne faitiez pas d'autres tests sur Facebook.",The last Twitter account was applied for using the G-ending email address.,436.0,79.0,467.0
+"Push all accounts, the last one was created using a g email address.","Translate English to Japanese. Below is a series of related messages. Context: e705d192-90ee-4fd1-9dcd-061958d1817f.png 0-e705d192-90ee-4fd1-9dcd-061958d1817f.png
+ 5a84cde3-7175-4044-8c88-d4c883a8fd38.png 0-5a84cde3-7175-4044-8c88-d4c883a8fd38.png
+ 4ea07c23-a1a6-411b-bcfb-552d095b66c9.png 0-4ea07c23-a1a6-411b-bcfb-552d095b66c9.png
+全部推账户，最后那个是用g的邮箱申请的推账户
+收到
+谢谢您
+还有如果我这想做个针对脸 
+书的平台大约经费需要多少，时间多久？目前，您那边有什么比较成熟的好用产品，简单介绍文档方便发一份过来吗？
+fb的方面我们还没太研究
+账号 TGtadie，电话：18510867099,姓名：王宁","All Twitter accounts, the last one was applied for using G's email.",438.0,31.0,441.0
+Received,"You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",Received,919.0,0.0,919.0
+Thank you.,Thank you for your message. I am happy that we can work together on this project. Please let me know if there is anything else I can help with.,Thank you.,133.0,0.0,133.0
+"Also, if I want to create a platform targeting Facebook, approximately how much would it cost and how long would it take? Currently, do you have any mature and useful products on your side? Could you please send a simple introductory document?","To translate Mandarin to English, it is necessary to provide specific instructions or context. If no additional information is provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. In terms of specific instructions, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read.","What is the budget and timeframe for creating a platform targeting Facebook? Currently, do you have any mature, useful products available? Could you please provide a brief introduction document?",335.0,121.0,348.0
+We haven't researched the Facebook side much yet.,We haven't studied the Facebook aspect much.,"Regarding Facebook, we haven't studied it much yet.",16.0,32.0,37.0
+"Account TGtadie, phone: 18510867099, name: Wang Ning","Translate the following message from Mandarin Chinese to English. Context: The message is a conversation between two individuals discussing an account and the cost of services related to it.
+Hello, what's up?","Account: TGtadie, Phone: 18510867099, Name: Wang Ning",184.0,3.0,185.0
+Are there any other people?,"Yes, there are a few others.",Do other people have any other options?,17.0,21.0,24.0
+How much would it cost to purchase this platform?,I have no idea about the money. It's a fixed price that has not been sold yet.,How much does it cost to purchase this platform?,61.0,4.0,60.0
+"The other ones didn't go through, this is for 10,000 valid searches per year.","Other people don't have it, this is $50 for one year with 10K queries.","Others are not available. This one is 50 yuan per year with 10,000 valid queries.",51.0,61.0,41.0
+How much is it per query for a single service?,How much 💰 for a single-service?,What is the cost per service if it's a one-time thing?,16.0,37.0,41.0
+We haven't sold single instances of this yet.,"Transalte Mandarin to English. Below is a series of related messages. Context:
+账号 TGtadie，电话：18510867099,姓名：王宁
+其他几个人有吗？
+推这套平台采购的话多少💰呢
+其他几个没有落到，这个是50一年一万次有效查询
+那如果是单次服务的话，是多少💰每次
+单次到是还没卖过呢
+疫情结束了见面详细聊聊，查出来那个人还有其他扩展信息吗
+这个人看看有没有办法查一下呢
+fb的话我们是想立项，所以才找您了解一下行情
+这个查了没有呢",This single service has not been sold yet.,237.0,32.0,238.0
+"Once the epidemic is over, can we meet to discuss in detail? If we find that person, will there be any additional extended information?","The other people have any? How much 💰 for purchasing this platform?
+Other several are not dropped, this one is 50 years 1 million times effective query.
+If it's a single service, how many 💰 per time?
+Single time has never been sold yet.
+See you in person to discuss details once the pandemic ends. Does he have other information that can be searched for?
+Let's check if there are any ways to do so via Facebook?
+This one was checked out already? Thank you, buddy, feel free to reach out anytime!","疫情结束了见面详细聊聊，查出来那个人还有其他扩展信息吗
+
+Translation: Once the pandemic is over, let's meet up to discuss in detail. Were there any additional information found on that person?",397.0,108.0,398.0
+,,,,,
+Can you see if there's a way to look into this person?,"Translate French to English. Below is a series of related messages. Context:
+Je ne sais pas si je me rappelle comment s'est déroulée l'histoire, mais pour moi, ce fut une épreuve terrible. Cela signifie que je devrai rester plus vigilant et me souvenir de ce qu'il faut faire.
+C'était ma première fois à New York, donc j'étais un peu nerveux au début.
+Je suis venu ici avec mes parents. Nous sommes très fiers d'être le premier dans la famille qui a voyagé hors du pays. C'est un endroit incroyable pour découvrir la beauté et la culture de ce pays.
+
+Message to translate:
+I don't know if I remember how the story went, but for me it was a terrible ordeal. It means that I have to be more vigilant and remember what needs to be done.
+It was my first time in New York, so at first I was a bit nervous.
+I came here with my parents. We are very proud to be the first in our family to travel outside of the country. It's an incredible place to discover the beauty and culture of this land.",Can we take a look at this person and see if there's any way to check them out?,935.0,51.0,915.0
+"Regarding fb, we are looking to initiate a project, so we reached out to you to understand the market price.","You are a highly skilled professional translator. You are a native speaker of English, Japanese and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.","We are looking into launching fb, so we wanted to get your perspective on the market situation.",822.0,65.0,833.0
+Has this been checked yet?,Translate this message from Mandarin to English.,Has this been checked yet?,36.0,0.0,36.0
+"Okay, thanks bro, feel free to contact me anytime you need anything recently.","Please translate the given message from Mandarin to English. Below is a series of related messages. Context:
+疫情结束了见面详细聊聊，查出来那个人还有其他扩展信息吗
+这个人看看有没有办法查一下呢
+fb的话我们是想立项，所以才找您了解一下行情
+这个查了没有呢
+好的，谢啦兄弟，最近有需要随时联系您","Ok, thanks brother, feel free to contact me if there's any need recently.",172.0,24.0,168.0
+[Joined hands],"- Yes, I'll take a look and see if there's anything we can do about it.",[Bow with joined hands gesture],63.0,18.0,57.0
+"I just reported to the boss, and he asked me to first record today's results and then see the effect. Also, I will be giving you another batch recently, around 100 or so. Let's see the probability and accuracy of getting results, hope you understand.","You are a professional translator with excellent skills. You translate the given text accurately, taking into account cultural nuances and specific instructions provided. If no additional context is specified, use your expertise to consider what the most appropriate context is for the translation. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.","I just reported to the big boss. He asked me to first set down today's results and then check the effectiveness. Also, we'll give you another batch soon, around 100 items I think. Check the success rate and accuracy for us, and I hope you understand.",646.0,86.0,650.0
+"Too many, it won't get approved by company procedures.","Your message has been translated accurately. It contains a series of related messages, and the context is as follows: ""fb"" mentioned by ""us"" refers to Facebook, so we are considering establishing an account on it. We contacted you to understand the market situation. This query referred to whether we have researched it before.
+OK, thanks brother, if there's anything in the future, please feel free to contact me anytime.
+[knock]
+Just reported back to the big boss, the boss asked us to first write down today's results and then see the effect. In addition, he will also assign a batch of about 100 pieces to you in the near future. See how many jobs can be done accurately and correctly. I hope you understand.
+There are too many, the company process is not smooth
+About how many within your scope? The boss also wants to see what effect it has.
+The usual success rate is between 20% and 30%.
+Thanks for that, I'll report back to the big boss tomorrow. If he still wants us to cooperate and try it out, I'll talk to you again then.
+OK, no problem.
+I'll do my best to explain to the big boss. The test will be within 20 accounts, so you won't be too stressed out for this one.","It's too much, and the company's process can't go through.",1127.0,45.0,1122.0
+So approximately how many would be within your capacity? The boss also wants to see how the results turn out.,"Translate Mandarin to English. Below is a series of related messages. Context:
+这个查了没有呢
+好的，谢啦兄弟，最近有需要随时联系您
+[抱拳]
+刚跟大老板汇报完，老板让我先把今天结果落下，然后看看效果。另外，最近还会交给您一批，大约100个左右吧。看看出活概率和准确性，希望您这理解。
+太多了的，公司流程走不通的
+那大约多少个在您范围以内？老板也是想看看效果怎么样
+常规的成功率在20~30%之间
+好的，谢谢您。明天我跟大老板汇报一下，如果他那还是想让咱们这边配合试一下，我再和您说。
+好的
+我尽量和老板说一下，测试在20个账号以内，这样您这不会太为难了吧？
+今天不是测了嘛[呲牙]",How many are within your scope? The boss also wants to see how the results turn out.,314.0,32.0,309.0
+The usual success rate is between 20~30%.,"Translate from English to Japanese. Below is a series of related messages. Context: いいよ、ありがとうね、お兄ちゃん最近はいつでも連絡して。 [敬礼]
+今、大ボスに報告したら、今回の結果を書き出し、効果を見ることになります。それから、近いうちにも、100人くらい程度をお任せします。あとは、成功率や正確性を見て、あなたがそれを受け入れてくれればと思います。 もっとも多すぎると、お会社の業務過程は通らないのです。 では、約10万個の範囲内にありますか？ ボスもその効果をどうするのか見たいというわけですね。
+通常の成功率は20～30％くらいです。 よし、ありがとう。それで、明日ボスに報告しよう。もし彼が私たちの仕事を一緒に行うことにしたいのであれば、私がお話をさせてくれます。 いいよ
+お試しは今日も行われてるよ[牙の出る笑顔]
+はっはー、それはまだ現実の人には落とさないわけでしょう、もう一段階でオンラインからオフラインにした上で、その結果も含めて見積もらなくちゃ。ボスが明言して、今回数社を選ぶことになったので、あとは同時に何人かやり始め、それを現実に見てお金の支出と一緒に見るということになる。そして、人工知能が生活を変える[悪い笑顔]
+
+Message to translate: 常规的成功率在20~30%之间",The regular success rate is between 20~30%.,573.0,5.0,573.0
+"Okay, thank you. I'll report to the big boss tomorrow. If he still wants us to cooperate and try it out, I'll let you know.","Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.","Okay, thank you. I will report to the big boss tomorrow. If he still wants us to cooperate and try, I will contact you again.",712.0,22.0,708.0
+Okay.,Translate French to English. Context: The new generation of high-performance tires will be launched in April next year.,Okay,116.0,1.0,117.0
+"I’ll try to talk to the boss and keep the test to within 20 accounts, so it won’t be too difficult for you, right?","Translate from Mandarin to English. Below is a series of related messages. Context:
+We had too many accounts, it was hard for us to make it through the company's processes.
+How many will fall within your range? The boss also wanted to see how things turned out.
+The standard success rate is between 20% and 30%.
+That's good, thanks. I'll report to the big boss tomorrow, if he still wants us to cooperate on testing, I'll talk to you again.
+Alright, take care.
+I'll try to explain it to our boss, the test will be within 20 accounts, so that won't be too difficult for you, right?
+We tested today, didn't we [Grinning Face With Smiling Eyes]? Ha ha, it's not yet practical. There is still a stage from online to offline, including the final outcome. I reported to the big boss today who explicitly mentioned finding several units providing some accounts and seeing how many can be done at once so that they fall into reality for better measuring of the final results. We also need to let him change his mindset, technology changes life [Grinning Face With Smiling Eyes].
+Right.
+Thanks, brother. I'm looking forward to future opportunities for collaboration in various ways as well.
+OK, good bye leader.","I will try to talk to the boss about limiting the test to 20 accounts, so it won't be too difficult for you, right?",1096.0,23.0,1095.0
+"We tested today, didn't we [grinning face]","Translate Mandarin to English. Below is a series of related messages. Context:
+那大约多少个在您范围以内？老板也是想看看效果怎么样
+常规的成功率在20~30%之间
+好的，谢谢您。明天我跟大老板汇报一下，如果他那还是想让咱们这边配合试一下，我再和您说。
+好的
+我尽量和老板说一下，测试在20个账号以内，这样您这不会太为难了吧？
+今天不是测了嘛[呲牙]
+哈哈，这不是还没有最后落到现实人吗，还需要从网上到网下一个阶段，包括最后的效果。今天汇报大老板明确提出了找几个单位各提供些账号，看能弄出几个同时进行，落到现实好衡量最后结果。也得让他转变思路，科技改变生活[坏笑]
+嗯
+谢啦兄弟。还得期待以后有机会多方位合作呢
+好的领导
+都是兄弟，别这么说，我也是被大老板逼的没办法了[抱拳]",Today wasn't it already tested [smirk],361.0,36.0,356.0
+"Haha, it hasn't yet moved to real people, and still needs to move from online to a next phase involving real-world application, including the final results. Today, when reporting to the big boss, he specifically proposed finding a few units to each provide some accounts, to see how many can be run simultaneously, so we can measure the final results in a practical setting. We also need to get him to change his thinking – technology changes lives [cheeky grin].","Translate from Mandarin to English: ""Ha ha, this is not the final reality yet. There are still two stages on online and offline, including the final effect. Today I reported to the big boss that he explicitly proposed to find a few units to provide some accounts to see if we can make several of them run simultaneously, which makes it easier to measure the final result in reality. We also need him to change his thinking, technology changes our lives.""","Haha, this has not yet finally landed on real people, right? It still needs to move from online to offline in the next phase, including the final results. Today, the big boss clearly proposed that several units should each provide some accounts, to see how many could proceed simultaneously, so that when it is implemented in reality, the final results can be measured well. We also need to change his mindset and let technology transform life [winky smile]",222.0,213.0,271.0
+Um/Okay/Got it.,"Translate Japanese to English. Below is a series of related messages. Context:
+はい、お願いします。明日、上司と報告すれば、彼の意向を確認してからこちらに連絡してもらえるのでしょうか？
+はい。
+これは今朝テストしただけです（笑）
+おう。おいおい、まだ現実世界の人に入れ替わる段階ではありませんよ。それもまた一つの段階。今日の上司に報告しても、彼は明確に、複数の組織がそれぞれ提供するアカウントを探して、それらが同時に実行されるかどうかに関心を持った。これで彼は考え方に変化し、テクノロジーは生活を変えることです（笑）
+はい。
+ありがとうお兄さん。もっと多様的な相互協力を期待する次の機会も期待しているよ。
+はい、おじさま
+私も兄弟だ、そんな事言うな、私も上司に押されて仕方がないよ（笑）
+おやめください、お兄さん。今は目標調査報告書を作るために他のAQにお役立てしたことがあります。",Okay,424.0,11.0,429.0
+Thanks bro. Let's hope we have more opportunities for multifaceted collaboration in the future.,"Translate Japanese to English. Context: I want to have a conversation with my boss about this, the testing is only on 20 accounts, so it won't be too difficult for you. Not today?[grinning face with smiling eyes]
+Haha, that's not even considering bringing the project to practical people yet, there's still one more step from online to offline, including the final results. Today I reported directly to the big boss and he explicitly mentioned finding a few units each providing some accounts to see if they can be conducted simultaneously, so we can actually measure the final result. We also need to change our perspective, technology changes life.[winking face]
+Yes
+Thank you brother. I'm looking forward to having more opportunities for mutual cooperation in the future.","Thanks, brother. I look forward to future opportunities for multi-faceted cooperation.",691.0,43.0,703.0
+"Okay, leader.","Translate Mandarin to English. Below is a series of related messages. Context:
+我尽量和老板说一下，测试在20个账号以内，这样您这不会太为难了吧？
+今天不是测了嘛[呲牙]
+哈哈，这不是还没有最后落到现实人吗，还需要从网上到网下一个阶段，包括最后的效果。今天汇报大老板明确提出了找几个单位各提供些账号，看能弄出几个同时进行，落到现实好衡量最后结果。也得让他转变思路，科技改变生活[坏笑]
+嗯
+谢啦兄弟。还得期待以后有机会多方位合作呢
+好的领导
+都是兄弟，别这么说，我也是被大老板逼的没办法了[抱拳]
+兄弟，打扰您一下，你们那里做合个网站之间关联这样的调研工作吗？我这有几个网站，目前来看是有关联性的，但是没有技术支撑，找不到他们具体关联情况。看看你们那边有没有所涉及这块业务
+之前给其他AQ做过一些目标调研报告
+我一会整理一个几个网站的相关情况，您看看那边能不能做出来调研报告，王那条线已经同时核了",Okay boss,429.0,8.0,432.0
+"We're all colleagues, don't say that. I'm also being pressured by the big boss and have no choice [bowing hands].",Translate the given text from Mandarin to English. Context: [咳嗽]我在公司当了十几年了，就是这种情况，每个月有不同的会议，今年已经有三次，两个是跟进，一个是开新业务线。,"We are all brothers, don't say that, I'm also forced to do this by the big boss [bow]",106.0,56.0,98.0
+"Hey brother, sorry to bother you. Does your team do research on the connections between websites? I have a few websites that seem to be related, but lack the technical support to pinpoint exactly how they're connected. See if your team handles this kind of work.","Translate Mandarin to English. Below is a series of related messages. Context:
+哈哈，这不是还没有最后落到现实人吗，还需要从网上到网下一个阶段，包括最后的效果。今天汇报大老板明确提出了找几个单位各提供些账号，看能弄出几个同时进行，落到现实好衡量最后结果。也得让他转变思路，科技改变生活[坏笑]
+嗯
+谢啦兄弟。还得期待以后有机会多方位合作呢
+好的领导
+都是兄弟，别这么说，我也是被大老板逼的没办法了[抱拳]
+之前给其他AQ做过一些目标调研报告
+我一会整理一个几个网站的相关情况，您看看那边能不能做出来调研报告，王那条线已经同时核了
+有既往参考的报告吗，我看一下就知道能不能做
+没有，我一会整理好了，您先看看能不能做","Brother, sorry to bother you, do you guys do research work on associations between various websites? I have a few websites that currently appear to be related, but there is no technical support, and we can't find out the specifics of their connections. Do you guys have any experience in this area?",322.0,131.0,326.0
+I've done some target research reports for other AQs before.,I previously did some target research reports for other AQS.,"I have translated the message: ""之前给其他AQ做过一些目标调研报告"" to English. Here is the translation:
+
+""Previously provided some target research reports to other AQ.""",21.0,112.0,99.0
+,,,,,
+I'll gather information about a few websites and send it to you. See if your side can produce a research report. Wang's line is also verifying this simultaneously.,"Translate from Mandarin to English. Below is a series of related messages. Context:
+Good bosses are all brothers, don't say that, I'm also forced by the big boss [bows deeply]
+Brother, interrupt you for a moment, do they have any research work on the association between websites over there? I have several websites here, and as far as we can see now, it seems to be related, but without technical support, it is not possible to find their specific relationship. See if your side has anything involved in this area
+I've done some target survey reports for other AQs before.
+I'll summarize the relevant situation of a few websites later and look at whether you can make a survey report on that line, Wang just gave me the green light at the same time.
+Do you have any reference reports from before? I'll take a look to see if it's possible to do so.
+No, I'll summarize it later, first look at whether it can be done.
+OK
+Look at this one, is this something that can be done?","I will translate the provided Chinese message to English while preserving any filenames or file references exactly as they appear.
+
+Message in English:
+I will compile the relevant information of several websites, please take a look and see if you can produce a research report for them. The line related to Wang has been simultaneously verified.",837.0,239.0,757.0
+Do you have any previous reference reports? I can tell if we can do it by taking a look.,I'll take a look and see if we have any relevant reports.,Do you have any reference reports available? I will know whether we can do it after taking a look.,64.0,39.0,72.0
+"No, I'll organize it shortly, please take a look and see if you can do it.","Transalte Mandarin to English. Below is a series of related messages. Context:
+Brother, do you have any related research work on linking up some websites? I have several websites here that seem to be related but lack technical support and cannot find their specific association situation. Take a look at what you're doing over there in relation to this area.
+I did the target research report for other AQs before.
+I'll prepare the relevant information for several of my sites later, please take a look and see if they can do it.
+Have any reference reports been done beforehand? I will just check whether or not we can do it.
+No, I'll gather everything up later, you first take a look and see if we can do it.
+OK, take a look at this one to see if we can do it.
+Make it as detailed as possible. It's not urgent for us. Please take a look first and see if they can make the report.
+The second question isn't too difficult; the first is more challenging.","No, I will organize it in a bit, take a look and see if you can do it.",880.0,17.0,884.0
+Okay.,"Translate Mandarin to English. Below is a series of related messages. Context:
+之前给其他AQ做过一些目标调研报告
+我一会整理一个几个网站的相关情况，您看看那边能不能做出来调研报告，王那条线已经同时核了
+有既往参考的报告吗，我看一下就知道能不能做
+没有，我一会整理好了，您先看看能不能做
+好的
+您看看这个能做吗
+尽量详细点，时间不太急。您先看看能不能做出来
+第二项问题不大，第一项难度高一些
+先建立合作，这些都好说[呲牙]
+
+Message to translate:",Okay,271.0,1.0,272.0
+,,,,,
+Can you take a look at this and see if it's doable?,"I'll look at it, but there's no guarantee that I can do the research report. Wang's line has already checked for previous references, and I'll take a look first to see if we can do it.",Can you take a look and see if this can be done?,152.0,20.0,152.0
+"Please be as detailed as possible, there's no rush. First, take a look and see if it's doable.",Translate the following message into Mandarin. Below is a series of related messages. Context: 有既往参考的报告吗，我看一下就知道能不能做没有，我一会整理好了，您先看看能不能做好的您看看这个能做吗。先建立合作，这些都好说[呲牙]好的，你那边能干的具体工作列个单子发给我，我好给老板汇报。还有，这个网站能做吗？,Provide as much detail as possible. Time is not very urgent. Please take a look and see if you can do it.,176.0,47.0,176.0
+"The second item isn't a big problem, the first item is more difficult.","Second item is not a problem, the first one has higher difficulty.","The second item is not much of a problem, but the first one is more difficult.",22.0,17.0,25.0
+"Let's establish a cooperative relationship first, then these things are easy to discuss [grinning face].",I will try my best to help you out. I will do it as soon as possible.,"First, establish cooperation; these are all negotiable [smiling]",79.0,63.0,55.0
+"Okay, please send me a list of the specific tasks you can handle so I can report to my boss.","Translate Mandarin to English. Below is a series of related messages. Context:
+您看看这个能做吗
+尽量详细点，时间不太急。您先看看能不能做出来
+第二项问题不大，第一项难度高一些
+先建立合作，这些都好说[呲牙]
+好的，你那边能干的具体工作列个单子发给我，我好给老板汇报。
+还有，这个网站能做吗？
+我们一般做项目打包，单个服务都不太做
+一个个做太累啦
+好的，我也是想做服务打包","Okay, please list the specific tasks that your side can handle and send them to me, so I can report back to the boss.",205.0,53.0,207.0
+,,,,,
+"Also, can you do this website?","Yes, we can do this website.",Can this website be done?,10.0,22.0,21.0
+"We generally do project packages, and don't really do individual services.","Translate the given message into English. Context: You are a skilled translator proficient in Mandarin and English, and you are also well-versed in Japanese culture. In this conversation, we will be discussing project packaging and individual services.","We generally do project bundling, and we don't typically offer individual services.",191.0,21.0,188.0
+Doing things one by one is too tiring.,Translate the text from Japanese into English. Please pay attention to context and provide a natural translation that aligns with the given hints enclosed in square brackets []: [person]：私はあの人に会いに行った。[object]：彼女はお茶を飲みながら、手帳や文書を整理していた。,Doing each one individually is too tiring.,208.0,18.0,203.0
+"Okay, I also want to do service packages.","Translate this message from Mandarin to English. Context: 1. You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",I want to package services as well.,949.0,26.0,955.0
+How much per year 💰,"Transalte Mandarin to English. Below is a series of related messages. Context: We generally do projects in bundles, we don't really do single services
+Oh, that's the problem, it takes too much effort to handle each one separately
+Okay, I was also thinking about bundling services
+How much for a year?
+We usually charge several hundred dollars
+We will report on this in the afternoon, please give me a list of what you can do and how much it costs for each item.
+It depends on specific content, let's discuss that later.",How much per year💰,502.0,1.0,502.0
+Generally a few hundred.,"Translate the message accurately. The key and value are separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",Usually several hundred,659.0,12.0,659.0
+"We'll report this afternoon, can you simply list what you can do and the price for each?","Context: We're doing a project package, we don't do individual services much.
+Doing one at a time is too tiring.",We will discuss in detail after seeing the specific content. Please list for me simply what can be done and how much each item costs.,85.0,88.0,103.0
+It mainly depends on the specific content.,"Translate this message from Mandarin into English. Context: A customer asks for a quote for services, and the business owner says it depends on the specifics of the content.",Mainly discuss after seeing specific content,132.0,20.0,134.0
+,,,,,
+79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png 0-79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png,"Translate English to Japanese. Below is a series of related messages. Context:
+いつまでに👍
+早くもしくはお手柄を挙げるか？(早く結果が出ないなら別の会社に行くと)
+一応時間的に厳しい。
+さすがにあそこに通報するほどではありません。",79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png 0-79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png,149.0,0.0,149.0
+Received.,"Translate the following messages from Japanese to English. Context:
+1、一般几百
+2、我们下午汇报，你简单给我列出来能做什么，每样多少钱
+3、主要看具体内容再谈
+4、收到
+5、兄弟，把你公司简介和产品简介发一份，我写报告用
+6、好的，刚有点事。
+7、没事，谢啦，麻烦你了
+8、兄弟，昨天那个账号绑定的邮箱你可以看到吗？或者是账号里面的私信你那可以看到吗",Received,205.0,1.0,206.0
+,,,,,
+"Brother, please send me a copy of your company profile and product introduction, I need it to write a report.","Translate Mandarin to English. Below is a series of related messages. Context:
+主要看具体内容再谈
+ 79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png 1-79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png
+收到
+好的，刚有点事。
+没事，谢啦，麻烦你了
+兄弟，昨天那个账号绑定的邮箱你可以看到吗？或者是账号里面的私信你那可以看到吗","Brother, send me a copy of your company profile and product introduction for use in writing the report.",207.0,24.0,208.0
+"Okay, just a bit busy.","Translate this message from Mandarin to English. The context is as follows:
+79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png 0-79d9b7f2-cfe4-4615-9b75-8fea33fc0c9d.png
+收到
+兄弟，把你公司简介和产品简介发一份，我写报告用
+好的，刚有点事。
+没事，谢啦，麻烦你了
+兄弟，昨天那个账号绑定的邮箱你可以看到吗？或者是账号里面的私信你那可以看到吗
+那个看不到的
+注册时邮箱也看不到？
+对","Okay, I just had something to take care of.",254.0,26.0,244.0
+"No problem, thanks, sorry to bother you.","Translate from Japanese. Context:
+「ありがとう」はいえよ。いつも役に立っています。","No problem, thanks for your help.",50.0,14.0,51.0
+"Brother, can you see the email address that account was bound to yesterday? Or can you see the private messages within the account on your end?","Translate Mandarin to English. Below is a series of related messages. Context:
+收到
+兄弟，把你公司简介和产品简介发一份，我写报告用
+好的，刚有点事。
+没事，谢啦，麻烦你了
+兄弟，你看到了那个文件吗？还是说在那里没有看到？
+还没有。","Brother, can you see the email that was bound to the account yesterday? Or is it the private message in the account that you can see?",136.0,50.0,137.0
+I can't see that.,"Translate the following message into English. Below is a series of related messages. Context:
+兄弟，把你公司简介和产品简介发一份，我写报告用
+好的，刚有点事。
+没事，谢啦，麻烦你了
+兄弟，昨天那个账号绑定的邮箱你可以看到吗？或者是账号里面的私信你那可以看到吗
+那个看不到的
+注册时邮箱也看不到？
+对
+👌
+人找到了么
+还没呢，先把外围核一下",I can't see that one.,206.0,4.0,203.0
+Can't you see the email used during registration?,"Translate the message accurately and take into account the context provided. Pay attention to cultural nuances, differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms or proper nouns, either leave them in the original language or use appropriate translations as needed. Take a deep breath, calm down, and start translating.",Can you see the email at registration time?,353.0,18.0,356.0
+Yes.,"Translate Japanese to English. Context: The first line of dialogue is from the character ""Riko,"" while the second and third lines are from the character ""Himuro"" in the context of a conversation between the two characters about a past event.
+Riko: You haven't told me anything yet, Himuro.
+Himuro: Yes. I was thinking...
+Himuro: I don't know why, but it just slipped out of my mind.
+Himuro: It's not something you can really put into words, even if you tried.",Yes,456.0,1.0,457.0
+Okay.,"You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",Okay.,922.0,0.0,922.0
+Have you found the person?,Have they been found yet?,Have you found the person yet?,17.0,4.0,18.0
+"Not yet, let's verify the periphery first.","Translate from Japanese to English. Below is a series of related messages. Context:
+I'm doing the test now.
+What kind of test?
+We've sent out emails to all members with accounts that are registered on mobile phones, and if they reply, it will be a positive outcome.
+OK, I'll wait for the result.","Not yet, first check the outer perimeter.",261.0,23.0,262.0
+Basically no problem.,"Mandarin to English.
+The context is an email conversation between two people. The following messages are related.
+I couldn't see the email address when I registered?
+Yup.
+Did you find the person?
+Not yet, let's check with outside first
+Basically no problem
+It just needs to be determined that this account is still using this phone number at present
+Message to translate:
+There is basically no problem.","The message is essentially saying: ""Basically no problem"" in English. However, to provide more context and a smoother translation, it can be better translated as: ""Everything looks good so far.""",381.0,173.0,310.0
+We just need to confirm whether this account or this mobile number is currently in use.,"Translate Mandarin to English. Below is a series of related messages. Context:
+对
+👌
+人找到了么
+还没呢，先把外围核一下
+基本没问题
+就是得确定下来目前该账号还是该手机号码使用
+安洵.7z 12756724-394c-4576-b373-7c53f1abbd94.md
+ 6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png 0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png
+魏总，请查收
+👌
+
+Message to translate:
+就是得确定下来目前该账号还是该手机号码使用",We need to confirm whether to use this account or mobile number currently.,281.0,27.0,280.0
+Anxun.7z 12756724-394c-4576-b373-7c53f1abbd94.md,AnYan.7z 12756724-394c-4576-b373-7c53f1abbd94.md,Anquan.7z 12756724-394c-4576-b373-7c53f1abbd94.md,2.0,2.0,2.0
+6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png 0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png,You found the file you were looking for. I have uploaded it to a secure server. The download link is as follows: https://xxxxx.com/xxxxxxxxxxxxxxx. Please use this link to obtain the file.,0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png 0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png,171.0,2.0,171.0
+"Mr. Wei, please check.","Translate Mandarin to English. Below is a series of related messages. Context:
+还没呢，先把外围核一下
+基本没问题
+就是得确定下来目前该账号还是该手机号码使用
+安洵.7z 12756724-394c-4576-b373-7c53f1abbd94.md
+ 6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png 0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png
+魏总，请查收
+👌
+好像打不开啊
+那个是境外可以打开的
+是东突的一个网站","Vice President Wei, please check and receive.",268.0,25.0,260.0
+Okay.,Thank you.,Okay,7.0,1.0,8.0
+,,,,,
+Seems like it can't open.,That's not possible.,It seems like it's not opening.,20.0,11.0,22.0
+That one can be opened from outside the country.,"Translate French to English. Below is a series of related messages. Context:
+ 6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png 0-6bcc0131-e4ad-421e-bb1f-d8ebe5eeec7b.png
+Monsieur Wei, voici le rapport.
+👌
+Je ne peux pas l'ouvrir, c'est un site web pour l'étranger.
+C'est un site de l'organisation d'Ouzbékistan.
+Brother, il a été découvert que l'utilisateur du compte précédent était celui-ci. Le numéro de téléphone à ce stade est détenu par plusieurs propriétaires successifs. Que pouvez-vous confirmer dans votre pays en plus des faits ci-dessus ?
+Je peux seulement dire avec certitude qu'il s'agit du bon numéro de téléphone, car il a été utilisé pour s'inscrire. Je pense que l'utilisateur actuel utilise toujours le compte par mail. J'ai lu les instructions et j'ai vu que votre système permet d'accéder aux messages privés.
+La fonctionnalité des messages privés doit être développée à un autre niveau.",That one can be accessed abroad.,852.0,26.0,867.0
+It's a website of East Turkestan.,"Translate Mandarin to English. Below is a series of related messages. Context:
+👌
+好像打不开啊
+那个是境外可以打开的
+魏总，请查收
+是东突的一个网站",It's an East Turkestan website.,98.0,19.0,97.0
+"Brother, we've identified that previous account. The phone number has had several owners, and the current user on Twitter isn't this Wang. Do you have any other evidence to corroborate this?","Translate this message from Mandarin to English. Context: 🌷
+It's so frustrating, I don't know what to do anymore.
+You said it was a foreign site that could be opened? Could you give me the link?
+I'm not sure if it's the one you're looking for, but here's the link: https://www.blogger.com/u/10/ticket/2023-02-08T15.20.44.00+0800
+This isn't about that, I was just asking about the login.
+What do you mean by ""it is?"" Is this what it's like?...
+It looks like a foreign site to me.
+
+Message to translate:
+这个没有","Brother, we've found out about that previous account. The phone number has had several different owners, and the current Twitter user is not this ""Wang."" Do you have any other evidence to support your claim?",401.0,54.0,395.0
+The only thing certain is that the phone number linked to this Twitter account is correct.,"Translate English to Japanese. Below is a series of related messages. Context: 
+That's the one that can be opened externally.
+It's a website for east Turkestan.
+Bro, I got info on the other account just now. The phone number has been used by several people, and it's not this Wang you're pushing for anymore. Do you have any additional proof from other angles?
+I can confirm that this Twitter is indeed linked to this number.
+This number was really registered when I signed up. Maybe the person you're pushing for still logs in via email.
+The private message feature requires further adherence.
+Is it included if we buy a service? 1000 times valid query
+It's not.
+Different modules of functionality.",The only thing that can be confirmed is that the Twitter-bound phone number is indeed correct.,619.0,55.0,618.0
+"The phone number was definitely correct during registration, I suspect the Twitter account has been logging in with email ever since. I remember seeing in the introduction that your system has the ability to check his direct messages, right?","Translate Mandarin to English. Below is a series of related messages. Context:
+好像打不开啊
+那个是境外可以打开的
+是东突的一个网站
+兄弟，之前那个账号查出来了。手机号码已经换了几任机主，目前推的使用人不是这个王，你那里还有其他方面可以佐证的吗？
+只可以确定的是，这个twitter绑定的手机号码就是这个没有错
+注册时候这个手机号码确实没有错，估计推的账户目前一直是通过邮箱登陆了。之前看介绍，我记得你们那个系统有查他私信的功能吧
+私信功能需要进一步贴靠去做的
+如果买服务的话都包含在服务里面吧？一千次有效查询
+这个没有
+不同的功能模块
+这个功能需要单独收费？","The phone number used at registration was indeed correct, and I estimate that the Twitter account has been logging in through email recently. From the introduction I saw earlier, I remember that your system should have a feature to check his private messages, right?",298.0,122.0,295.0
+The private message function needs further integration to be done.,"Translate English to Mandarin. Below is a series of related messages. Context:
+境外可以打开的
+是东突的一个网站
+兄弟，之前那个账号查出来了。手机号码已经换了几任机主，目前推的使用人不是这个王，你那里还有其他方面可以佐证的吗？
+只可以确定的是，这个twitter绑定的手机号码就是这个没有错
+注册时候这个手机号码确实没有错，估计推的账户目前一直是通过邮箱登陆了。之前看介绍，我记得你们那个系统有查他私信的功能吧
+私信功能需要进一步贴靠去做的
+如果买服务的话都包含在服务里面吧？一千次有效查询
+这个没有
+不同的功能模块
+这个功能需要单独收费？
+对的
+
+Message to translate:
+私信功能需要进一步贴靠去做的",The private message function requires further cooperation to access.,322.0,18.0,321.0
+"If you buy the service, it should all be included in the service, with 1000 valid queries.","Translate Mandarin to English. Below is a series of related messages. Context:
+Is it an Eastern Turkistan website?
+Bro, that account was found earlier. The phone number has changed several times of the owner, and currently the one using Twitter isn't this Wang, is there any other aspect in your area that can be verified?
+It can only be confirmed that the Twitter-registered mobile number is correct.
+The registered mobile number is indeed correct, I guess the account for Twitter was logging in through email. When looking at the introduction, I remember that your system has a feature to check private messages, right?
+The private message feature needs further implementation.
+If you buy services, do all of them include the service? A thousand valid queries
+No, different functionality modules are needed.
+This function requires additional charges, right?
+Correct.
+Your Twitter account includes 1000 services, and an annual subscription for all services costs how much 💰？”","If purchasing the service, is it all included in the service? One thousand effective queries.",897.0,39.0,891.0
+This doesn't include that.,Context:,This one is not included.,21.0,11.0,22.0
+Different functional modules,"Translate Mandarin to English. Below is a series of related messages. Context:
+我知道的，最近做预算，我想了解一下您那里这套系统，包含说明书上面推相关的所有模块，一年共多少💰，查询按1000次算。",Different function modules,125.0,2.0,126.0
+Does this function require separate payment?,对的。,Does this feature require separate payment?,44.0,6.0,43.0
+Yes.,"The product is priced based on a monthly subscription fee. The service fee covers 1,000 queries in total and includes all the features provided by the system.",Correct,155.0,6.0,152.0
+"How much would your push service including 1000 requests, plus all services for a year cost?💰","Translate the following text from English to Mandarin: Context: If you buy the service, then it should include all services, right? One thousand effective queries This doesn't have [a] different functionality module This function needs to be charged separately, correct? Yes You offer that push includes 1000 queries in addition to all other services, how much for a year?💰 Private messaging module is productized sales. I know, I'm recently doing budgeting, and I want to understand the system you have there; it includes everything related to pushes as listed in the manual, with a total of how much 💰 for a year? Queries are calculated at 1000 times each. With this configuration, 40[bow] That's it. Then if you do business specifically for one website, how much would that cost, just taking things like logs into account? You need to evaluate separately based on specific goals.","The service you mentioned includes 1000 services, and how much is the total cost for all services for one year?",803.0,71.0,780.0
+The private message module is sold as a product.,This message is related to product selling.,The private message module is sold as a product.,31.0,0.0,31.0
+"I understand. I'm currently working on a budget and would like to know the annual cost of your system, including all modules related to the push notifications mentioned in the documentation, with 1000 queries included.","Transalte English to Mandarin. Below is a series of related messages. Context:
+不同的功能模块
+这个功能需要单独收费？
+对的
+你那个推的包含1000次服务，再加上所有服务一年多少💰
+私信模块是产品化销售的
+我知道的，最近做预算，我想了解一下您那里这套系统，包含说明书上面推相关的所有模块，一年共多少💰，查询按1000次算。
+这样配的话，40[抱拳]
+那单独针对一个网站做业务的话需要多少钱，就是拿日志这些
+需要具体目标具体评估的
+大约呢，我一并做预算里面
+50起","I know, I am currently working on my budget. I would like to learn more about your system, including all modules related to the push mentioned in the manual. How much would it cost for a year with 1,000 inquiries?",251.0,98.0,253.0
+"If configured like that, 40 [folded hands]","You have just said that for this configuration, the price is 40.","""这样配的话，40[抱拳]"" translates to:
+
+""With this configuration, 40[抱拳]""",51.0,53.0,47.0
+"How much would it cost to do business for just one website, specifically to get the logs?","Translate Mandarin to English. Below is a series of related messages. Context:
+That's right.
+How much 💰 for 1000 services plus all other services per year?
+The private message module is the productized sales
+I know, I'm recently budgeting and want to get an idea from you about that system there including all modules related to the push on the manual plus 1 year how much💰, and querying by 1000 times.
+That's $40 with a bow [bow]
+What if it's just business for one website? Just taking logs and so on?
+We need specific targets for an assessment.
+What about that in total budgeting?
+About $50
+For only one site we need $50?
+I'll report like this first, actually this kind of service we don't do individually.","How much does it cost to do business with a specific website, like getting access to its logs?",629.0,39.0,631.0
+Needs specific goals for specific evaluation.,I'll give you a specific estimate based on the target.,"The specific message needs to be translated into English is: ""需要具体目标具体评估的""
+
+English translation: Need to evaluate specific targets specifically.",40.0,115.0,114.0
+"Roughly then, I’ll include it in the budget.",About how much is it for me to make a budget in total?,"""About, I will include it in the budget.""",40.0,15.0,36.0
+50+ (or 50 and up),"Translate Mandarin to English. Below is a series of related messages. Context:
+我知道的，最近做预算，我想了解一下您那里这套系统，包含说明书上面推相关的所有模块，一年共多少💰，查询按1000次算。
+这样配的话，40[抱拳]
+那单独针对一个网站做业务的话需要多少钱，就是拿日志这些
+需要具体目标具体评估的
+大约呢，我一并做预算里面
+50起
+只一个就要50起？
+先这么报呗，其实单个这种服务我们不做的
+👌，明白。
+一个一个做，亏本[捂脸]
+我们也是想打包做，疫情结束后见面相商",Starting at 50,267.0,15.0,263.0
+Just for one would it start at 50?,"You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",Is it starting at 50 for just one?,895.0,27.0,896.0
+"Let's quote it like this for now, actually we don't do this kind of service individually.","How much does it cost to do business with a specific website? It's all about the logs
+It needs to be evaluated specifically for each target.
+Well, I have included this in my budget as a whole
+Starting from 50k.
+Just one is 50k?
+Let me just quote that way. We don't do it individually.
+I got it. You are making losses if you do them one by one.
+We also want to bundle and discuss after the epidemic ends.
+OK, let's give an estimate first, then we'll talk about other stuff.
+No problem, thank you. I sent that website last time. Is there a chance for follow-up?","Translate the message: ""先这么报呗，其实单个这种服务我们不做的""
+
+English translation: ""Let's just do the estimate like this for now, but actually, we don't do individual services like this.""",490.0,109.0,465.0
+"👌, understood.","Translate from Mandarin to English. Below is a series of related messages. Context: Need specific targets, specific assessment
+Oh, in the budget together
+50 for one?
+Just report like this, actually we don't do such single service individually
+Understand, each person does it, it's not profitable [face covered]
+We also want to bundle and make it when the epidemic ends.
+Yes, estimate first and then discuss later.
+Okay, no problem, thanks. Last time I sent you a website. Is there any possibility of doing it down?
+Brother, can you ask if Gmail email can be done? What is the success rate?","Okay, understood.",576.0,4.0,573.0
+Doing it one by one would be a loss [捂脸],"Translate from Mandarin to English. Below is a series of related messages. Context:
+I was thinking, I also include budget in it
+50 up
+for just one, you need 50 up?
+Let's just quote that for now, actually we don't do individual services like this.
+👌, I get it.
+It's unprofitable if we do them one by one.
+We would also want to pack and make it, let's see each other after the epidemic is over and discuss it in person.
+Alright, no problem, thanks. The last time you sent me that website, does there still have a chance of getting made?
+Brother, I'll ask if you can do gmail email? What are the success rates?","Doing it one by one, at a loss [facepalm]",572.0,16.0,570.0
+"We also want to do a package deal, let's discuss it in person after the epidemic ends.","You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.",We want to do it in bulk and discuss face-to-face after the pandemic.,848.0,43.0,864.0
+"Okay, let's roughly report the budget first, and we can discuss the rest later.",Translate from French to English. Context:,"Okay, let's get an approximate budget first, and we can talk about the rest later.",61.0,25.0,63.0
+"Okay, no problem, thanks. Regarding the website I sent over last time, is there a possibility of moving forward with it?","Translate Mandarin to English. Below is a series of related messages. Context:
+先这么报呗，其实单个这种服务我们不做的
+👌，明白。
+一个一个做，亏本[捂脸]
+我们也是想打包做，疫情结束后见面相商
+嗯，预算先大概报报，其他的之后面聊
+好的，没问题，谢啦，上次我发过去那个网站，有做下来的可能性吗？
+兄弟，问一下gmail邮箱你们能做吗？成功概率有多少
+没太做啊
+我之前看咱们那个介绍里面不是有这方面的技术吗，主要针对谷歌邮箱
+嗯，不过那个是产品","Okay, no problem, thank you. Is there a possibility to get that website I sent over last time?",237.0,71.0,240.0
+"Brother, can you handle Gmail accounts? What's the success rate?","Brother, please ask if you can do gmail emails? What's the probability of success?","Brother, can you ask about the possibility of working on Gmail? How much chance of success is there?",44.0,58.0,63.0
+Haven't done much of that.,"I don't have a specific product or service for WhatsApp, but I can provide some technical guidance and support.",We haven't done many of those.,93.0,10.0,92.0
+"I previously saw in your introduction that you had technology in this area, mainly for Google email.","Translate the following messages from Mandarin Chinese into English. If you need additional context, please refer to the previous and next messages in the conversation. Context: We're also thinking of packaging it up, and meeting after the epidemic to discuss it.
+Yeah, let's just roughly estimate the budget first, then we can talk about other things later.
+OK, no problem, thanks. The website I sent you last time, is there any possibility for us to do it?
+Brother, ask if you guys can make gmail emails? What are the success probabilities?
+We haven't done that much.
+I previously saw from our introduction that we have this kind of technology, mainly targeting Google email.
+Yeah, but that's a product.
+Mr. Zhou, does your company have a WhatsApp product?
+Mr. Wei, good one, we don't have it yet.
+Do you know any companies in China who make software for this?","I saw in our previous introduction that we have technology for this, mainly targeting Google email.",773.0,38.0,769.0
+"Um, but that's a product.",Please provide a brief description of the product and its features.,That product is what it is.,53.0,23.0,49.0
+,,,,,
+"Mr. Zhou, does your company do WhatsApp products?","Yes, we have a WhatsApp product.","""Brother Zhou, does your company make WhatsApp products?""",26.0,12.0,32.0
+"Hello Mr. Wei, we don't have that.",I don't have it.,"Hello魏总, we don't have this.",20.0,10.0,14.0
+Do you know of any companies in China that make this kind of software?,"There are companies in China that do this type of software, and he is in Chengdu.",Do you know any domestic companies that do work in this software area?,47.0,36.0,58.0
+Haven't heard of it.,"Translate Mandarin to English. Below is a series of related messages. Context:
+Yes, but that's the product.
+Mr. Zhou, does your company make WhatsApp products?
+Mr. Wei, we don't have one yet.
+You know of any domestic companies making this software?
+I haven't heard of any.
+Thanks, brother. You're still in Chengdu, right?
+Yeah.
+Beijing hasn't been lifted yet; we can't get out, so if you can, please contact me.
+Okay.
+Brother, are you going to be in Chengdu all through June?",I haven't heard of it.,457.0,3.0,454.0
+"Okay, thanks bro, are you still in Chengdu?","Translate Mandarin to English. Below is a series of related messages. Context:  
+周总，您们公司有做whatsapp产品吗？ Wei, do you know any companies that are doing this software in China? 魏总好，这个木有呢. No, I don't know. 您了解国内有做这软件方面的公司吗？没听到过. Have you heard of any domestic companies that develop software? 没听到过。 Haven't heard about it. 👌，谢啦兄弟，你还在成都呢？嗯好的，六月中旬的样子在成都。 Are you still in Chengdu for June? 👌，谢啦兄弟，你还在成都呢？嗯好的，六月中旬的样子在成都。 Is there anything we can do to help? 北京还没有解禁，我们出不去差，能出去了联系你。 We haven't been able to leave Beijing yet, but if the situation improves, I'll give you a call. 好的。 Good. 兄弟，你六月份都在成都吧？6月中旬的样子在成都。 Yes, I'm going to be in Chengdu for most of June.","Okay, thanks brother, you're still in Chengdu?",616.0,7.0,615.0
+Yes.,"Translate Mandarin to English. Below is a series of related messages. Context:
+周总，你们公司有做whatsapp产品吗？
+魏总好，这个木有呢
+您了解国内有做这软件方面的公司吗？
+没听到过
+👌，谢啦兄弟，你还在成都呢？
+嗯
+北京还没有解禁，我们出不去差，能出去了联系你
+好的
+兄弟，你六月份都在成都吧？
+6月中旬的样子在成都
+可以出来晃了？
+
+Message to translate:
+好啊，没问题。",Okay.,237.0,4.0,238.0
+"Beijing hasn't been cleared yet, we can't travel for work. I'll contact you when we can.","Translate Mandarin into English. Below is a series of related messages. Context:
+没听到过
+👌，谢啦兄弟，你还在成都呢？
+嗯
+兄弟，你六月份都在成都吧？
+6月中旬的样子在成都
+可以出来晃了？
+两会结束后应该可以出去了，如果能去的话带上领导直接和你这里对接，争取今年做成一个项目，以后慢慢来","Beijing has not lifted the ban yet, we cannot travel for business. We will contact you when we can.",165.0,28.0,166.0
+Okay.,"Translate French to English. Below is a series of related messages. Context:
+Je te dirai ça en privé, mais pas ici.
+Non non, je comprends la situation
+👌，谢啦兄弟，你还在成都呢？
+嗯
+北京还没有解禁，我们出不去差，能出去了联系你
+好的
+兄弟，你六月份都在成都吧？
+6月中旬的样子在成都
+可以出来晃了？
+两会结束后应该可以出去了，如果能去的话带上领导直接和你这里对接，争取今年做成一个项目，以后慢慢来
+到时候你多介绍一些体现公司能力独一无二的产品",Okay,296.0,1.0,297.0
+"Brother, will you be in Chengdu all of June?","Translate Mandarin to English. Below is a series of related messages. Context:
+没听到过
+👌，谢啦兄弟，你还在成都呢？
+嗯
+北京还没有解禁，我们出不去差，能出去了联系你
+好的
+兄弟，你六月份都在成都吧？
+6月中旬的样子在成都
+可以出来晃了？
+两会结束后应该可以出去了，如果能去的话带上领导直接和你这里对接，争取今年做成一个项目，以后慢慢来
+到时候你多介绍一些体现公司能力独一无二的产品
+好的，快来吃火锅","Brother, are you in Chengdu for June?",223.0,12.0,224.0
+Around mid-June in Chengdu.,"Transalte English to Mandarin. Below is a series of related messages. Context:
+我还没有回国呢，你来北京怎么了？
+是不是听说我们有个项目，想过来跟你谈一下？还是有什么其他事儿？
+好，我明天早上10点出发，下午到达，中午去吃火锅吧
+行，那就一起吃吧！","I will be translating the Chinese message to English. Here is the provided message:
+
+6月中旬的样子在成都
+
+English translation:
+Mid-June in Chengdu",151.0,114.0,141.0
+Can we hang out?,Can you come out and walk around?,Can we come out and visit?,21.0,14.0,14.0
+"After the Two Sessions are over, we should be able to travel. If I can go, I’ll bring the leader and connect directly with you to try and get a project done this year, and we can take it slow after that.","Beijing is still not open, we are not allowed to leave, can you contact me if it's possible for us to go out?","After the two sessions end, we should be able to go out. If we can, I'll bring the leader to directly connect with you and try to complete a project this year, then take things slowly from there.",146.0,75.0,141.0
+"When the time comes, please introduce more products that showcase our company's unique capabilities.","Translate Mandarin to English. Below is a series of related messages. Context: 
+好的
+兄弟，你六月份都在成都吧？
+6月中旬的样子在成都
+可以出来晃了吗？
+两会结束后应该可以出去了，如果能去的话带上领导直接和你这里对接，争取今年做成一个项目，以后慢慢来
+到时候你多介绍一些体现公司能力独一无二的产品
+好的，快来吃火锅
+😄，主要把事做成，互相帮助，火锅不急，一直不好意思，因为疫情也没去成
+[奸笑]
+还有一个事情，我这有一条涉及两会线索的推号码，方便先帮忙落查一下吗？
+不一定能做出来啊",Introduce many unique products that showcase your company's capabilities at that time.,261.0,53.0,263.0
+"Okay, come eat hotpot.",😄，主要把事做成，互相帮助，火锅不急，一直不好意思，因为疫情也没去成,"Okay, come eat hot pot soon.",34.0,6.0,34.0
+"😄, the main thing is to get things done, help each other out, and we can hold off on the hot pot. I've always felt bad about it, especially since the pandemic prevented us from going.","Translate Japanese to English. Below is a series of related messages. Context: I think we should go for some dinner together and just talk about the things that have been bothering me.
+Sounds good, but it's important not to let it affect your work. You're still there because you're doing well.","Message Translation:
+""😄, the main thing is to get the deal done, we can help each other out. Don't hurry with the火锅, I've always felt a bit embarrassed, we couldn't make it because of the pandemic.""",207.0,119.0,210.0
+[evil laugh],"Transalte Mandarin to English. Below is a series of related messages. Context:
+Yes, it's been quite some time since you last went out for dinner.
+We should take the opportunity to have a nice meal together.
+I'll make reservations at one of my favorite restaurants.
+You don't need to trouble yourself with such trivial matters.
+No problem, let me know when you're ready to go.",Smirk.,366.0,11.0,370.0
+"There's one more thing. I have a lead number related to the Two Sessions, would you mind helping me look into it first?","I have one more thing, I have a WeChat push number related to the Two Sessions. Would you mind helping me investigate it first?","There is one more thing, I have a piece of news related to the two sessions with a push number, could you help me check it out first?",27.0,51.0,63.0
+It might not be possible to pull it off.,"Translate Mandarin to English. Below is a series of related messages. Context: [奸笑]还有一个事情，我这有一条涉及两会线索的推号码，方便先帮忙落查一下吗
+不一定能做出来啊
+那没关系，因为和领导汇报也是说有百分之五十概率成功[呲牙]
+已经相当🐂了
+没那么高啊
+全国领先[抱拳]",We might not be able to do it.,160.0,15.0,161.0
+"That's okay, because when reporting to the leaders, I also said there's a fifty percent chance of success[grinning]","Translate Mandarin to English. Below is a series of related messages. Context:
+🐂😄，主要把事做成，互相帮助，火锅不急，一直不好意思，因为疫情也没去成
+还有一个事情，我这有一条涉及两会线索的推号码，方便先帮忙落查一下吗
+不一定能做出来啊
+那没关系，因为和领导汇报也是说有百分之五十概率成功[呲牙]
+已经相当🐂了
+没那么高啊
+全国领先[抱拳]
+@dr_allah_nizar","That's fine, because when reporting to the leader, we also say there is a fifty percent chance of success [smirk]",204.0,19.0,204.0
+That's pretty amazing.,"Translate ""已相当牛逼"" into English. Context:",It's already quite impressive.,33.0,21.0,33.0
+It's not that high.,"Translate the text from Mandarin to English. Below is a series of related messages. Context:
+[呲牙]已经相当🐂了
+我觉得你可以再加一点儿吧！[手势]
+那就不行了。[抱拳]对不起。
+这也行，能帮忙吗？",It's not that high.,136.0,0.0,136.0
+Nationally leading [folded hands],"Translate Mandarin to English. Below is a series of related messages. Context:
+你好！我是新来的，想问下，你们有提供给公务员的培训吗？如果可以，请告诉我一下。谢谢！",National leader level [fist bump],103.0,20.0,104.0
+,,,,,
+@dr_allah_nizar,"You are a highly skilled professional translator. You are a native speaker of English, Japanese, French and Mandarin. Translate the given text accurately, taking into account the context and specific instructions provided. Steps may include hints enclosed in square brackets [] with the key and value separated by a colon:. If no additional instructions or context are provided, use your expertise to consider what the most appropriate context is and provide a natural translation that aligns with that context. When translating, strive to faithfully reflect the meaning and tone of the original text, pay attention to cultural nuances and differences in language usage, and ensure that the translation is grammatically correct and easy to read. For technical terms and proper nouns, either leave them in the original language or use appropriate translations as necessary. Take a deep breath, calm down, and start translating.","@dr_allah_nizar
+
+Check this account for me, thanks brother.",915.0,44.0,877.0
+Please check this account and see.,"Translate Mandarin to English. Below is a series of related messages. Context: @lisa_j_choi
+已经相当🐂了
+没那么高啊
+全国领先[抱拳]
+@dr_allah_nizar
+这个账号，帮查查看看
+谢谢兄弟
+没查到
+收到，谢啦",Check this account for me.,138.0,13.0,140.0
+Thanks bro.,"Translate the following message from English to Mandarin. Context: [Note that this is a fictional context, not a real one]: A group of college students in China are planning an exchange program with their American counterparts. They are arranging all the details and logistics for the visit.",Thank you brother,282.0,8.0,277.0
+Couldn't find it.,I did not find it.,Couldn't find it.,6.0,0.0,6.0
+"Got it, thanks.","Thank you for the message, I'm glad to be of help.","Understood, thanks a lot!",43.0,16.0,41.0
