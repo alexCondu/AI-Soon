@@ -1,0 +1,257 @@
+### Batch 1
+Here's a structured analysis of the messages, focusing on compensation/payment-related information and flagging issues, as requested:
+
+* **wxid_xusilpfkh31g21:** Mentions a client requiring a 6-month trial before payment.
+* **wxid_xusilpfkh31g21:** References a 500k loan from China Bank and owing 22.5 (currency unspecified) from projects. Plans to pay 12.5 first.
+* **lengmo:** Asks for input on salary adjustments for Group 2 and Group 3 heads, suggesting referencing Wang Yan’s ratio.
+* **lengmo:** Notes tight funds and held-up payment requests.
+* **lengmo:** References numerous demands for payment.
+* **Shutd0wn:** States no payment received and advance payment isn’t feasible.
+* **lengmo:** Discusses a contract signed *after* delivery regarding payment terms.
+* **lengmo:** Suggests canceling a contract due to concerns about not receiving the first payment.
+* **Shutd0wn:** Expresses intent to request payment.
+* **lengmo:** HR states compensation isn’t competitive for attracting talent, especially compared to Sinopec. Mentions a former employee earning less than a peer.
+* **lengmo:** Acknowledges awkwardness of current salary levels.
+* **lengmo:** States year-end salary processing will take time.
+* **Shutd0wn:** Suggests prioritizing payment if someone finds it annoying.
+* **Shutd0wn:** Mentions Qianxin borrowed a bridge loan to pay off 360 (currency unspecified).
+* **Shutd0wn:** Confirms a payment deadline has been given.
+* **lengmo:** Plans to raise compensation for technical roles.
+* **lengmo:** Believes higher salaries will improve team stability.
+* **Shutd0wn:** Suggests offering appropriate compensation to key core members.
+* **lengmo:** Notes complaints from the Cases team about a salary gap with the Tech department, citing Tech salaries of 16-18k (currency unspecified).
+* **lengmo:** Asks if payment will be made upon signing.
+* **lengmo:** Expects November payment to arrive.
+* **Shutd0wn:** Confirms payment will be made upon signing.
+* **lengmo:** Suggests 100 million (currency unspecified) may not cover the first payment.
+* **lengmo:** Mentions a 20% tax on a payment.
+* **lengmo:** Discusses affordability of a down payment on a house.
+* **lengmo:** Aims to complete something before payroll.
+* **lengmo:** Reports receiving a payment.
+* **lengmo:** Details payments of 98,000 (currency unspecified), 98,000, and approximately 198,000 (currency unspecified).
+* **lengmo:** Notes employee desires for more vacation, less overtime, and higher salaries compared to other companies.
+* **lengmo:** Requests a 1 million (currency unspecified) loan from the company after the New Year, with a plan for repayment within the year, to cover a down payment on an apartment.
+
+
+
+**Flags/Issues:**
+
+*   **Payment Delays/Issues:** Multiple messages indicate payment delays, disputes, and concerns about receiving payments.
+*   **Compensation Competitiveness:**  HR acknowledges uncompetitive compensation, leading to employee attrition and dissatisfaction.
+*   **Salary Disparities:** Complaints from the Cases team regarding salary differences with the Tech department.
+*   **Loan Requests:** An employee requesting a significant loan from the company for personal expenses.
+*   **Tax Concerns**:  Expresses concerns about a 20% tax on payments.
+*   **Financial Hardship**: Multiple messages allude to financial strain.
+
+### Batch 2
+Here's an analysis of the provided messages, focusing solely on compensation-related content and adhering to your specified format:
+
+* **lengmo → Shutd0wn:** Mentions potentially borrowing 1 million (currency unspecified) to cover project payment issues.
+* **Shutd0wn → lengmo:** Suggests using bonus incentives instead of complex salary calculations.
+* **lengmo → Shutd0wn:** Proposes a seniority-based salary increase of 100 per year of service.
+* **Shutd0wn → lengmo:** States prioritization of salary increases and bonuses for key personnel.
+* **Shutd0wn → lengmo:** Mentions year-end bonus assessment tied to statistical interfaces.
+* **Shutd0wn → lengmo:** References technical salary and bonuses needing to be secured through contracts.
+* **Shutd0wn → lengmo:** Emphasizes full year's salary payment, not just for specific events.
+* **lengmo → Shutd0wn:** Discusses payment timing related to 2019/2020 invoices/payments; mentions a payment span crossing into the next year.
+* **lengmo → Shutd0wn:** Mentions partial amounts collected and uncollected amounts impacting the following year’s finances.
+* **Shutd0wn → lengmo:** Mentions Management Department 2020 cash flow income.
+* **lengmo → Shutd0wn:** Asks about how year-end bonuses and salary adjustments are determined.
+* **Shutd0wn → lengmo:** States that some in Groups 2 & 3 received salary adjustments & bonuses; 4 new sales hires received a slight adjustment.
+* **lengmo → Shutd0wn:** Asks about the year-end bonus.
+* **Shutd0wn → lengmo:** States commissions are paid normally, executive bonuses in installments, and there is no 13th-month salary.
+* **lengmo → Shutd0wn:** Suggests delaying the year-end bonus to potentially slow employee departures.
+* **lengmo → Shutd0wn:** Confirms no salary reduction in January & February.
+* **Shutd0wn → lengmo:** States the decision to cut the 13th-month salary.
+* **lengmo → Shutd0wn:** Questions whether to explicitly state only some will receive year-end bonuses/salary increases.
+* **lengmo → Shutd0wn:** Mentions HR suggestion of seniority-based salary increases (50 or 80 after one year).
+* **lengmo → Shutd0wn:** Asks if Qian received a salary adjustment with their recent promotion.
+* **Shutd0wn → lengmo:** Suggests calculating someone's compensation by project rather than a salary.
+* **Shutd0wn → lengmo:** Acknowledges someone's salary is not high.
+* **Shutd0wn → lengmo:** Suggests calculating someone's compensation based on contracts.
+* **Shutd0wn → lengmo:** Questions if a salary is already paid for the work.
+* **lengmo → Shutd0wn:** Questions why someone would receive more pay on top of their existing salary.
+
+### Batch 3
+Here's a structured analysis of the provided messages, focusing solely on compensation/payment-related content, with attribution and specific data points:
+
+* **Shutd0wn → lengmo:** Mentions Qin Xiaoxi receiving a bonus.
+* **lengmo → Shutd0wn:** Suggests bonuses be unified into a single bonus form.
+* **lengmo → Shutd0wn:** Proposes bonuses based on recovered money, proportionally.
+* **Shutd0wn → lengmo:** References balancing income and expenses in relation to payment/compensation.
+* **Shutd0wn → lengmo:** Mentions adjustments to achieve income/expense balance.
+* **lengmo → Shutd0wn:** States salary & related expenses will be paid directly.
+* **lengmo → Shutd0wn:** Asks for the annual salary, social security, and bonuses for personnel.
+* **lengmo → Shutd0wn:** Payment for Lhasa expected in April.
+* **Shutd0wn → lengmo:** Payment delays of 1-2 months are common.
+* **lengmo → Shutd0wn:** Discusses using “in process” as an excuse for delayed payment.
+* **lengmo → Shutd0wn:** Mentions payment schedules for each company.
+* **lengmo → Shutd0wn:** References delayed payment by a few days.
+* **lengmo → Shutd0wn:** States money has been received, potentially resolving a payment issue.
+* **Shutd0wn → lengmo:** Asks for update on Shaanxi project payment.
+* **lengmo → Shutd0wn:** Mentions “Yearly payment.”
+* **lengmo → Shutd0wn:** References a June raise, 8000W commission (potential bonus/incentive), and concerns about trust.
+* **lengmo → Shutd0wn:** Discusses retaining a team member with a potential salary increase.
+* **lengmo → Shutd0wn:** Mentions a potential salary increase next month.
+* **lengmo → Shutd0wn:** Discusses a 8000W commission.
+* **lengmo → Shutd0wn:** Notes tech team concerns about the June salary increase being a delay tactic.
+* **Shutd0wn → lengmo:** Mentions bonuses for April-May based on two months’ salary.
+* **Shutd0wn → lengmo:** Requests follow-up on collecting payment.
+* **lengmo → Shutd0wn:** Suggests increasing salary (“a few K”) to counter poaching and secure higher salaries.
+* **Shutd0wn → lengmo:** States 404 payment will be made on Monday.
+* **Shutd0wn → lengmo:**  Mentions an employee's compensation not matching their capabilities.
+* **lengmo → Shutd0wn:**  Employee received a 250 yuan salary increase over two years.
+* **lengmo → Shutd0wn:** Discusses payment terms requiring upfront payment from clients.
+* **lengmo → Shutd0wn:** Discusses requiring advance payment for a project.
+* **lengmo → Shutd0wn:** Suggests budget of 15000 allows for salaries of 8000-10000.
+* **lengmo → Shutd0wn:**  Shaanxi project payment – materials to be prepared before the holiday.
+* **lengmo → Shutd0wn:** Lhasa payment is delayed due to client organizational changes, new personnel and data center changes.
+
+### Batch 4
+Here's a structured analysis of the provided messages, focusing solely on compensation/payment-related content, with attribution and specific data points:
+
+* **Shutd0wn → lengmo:** Mentions issues with payment, framing it as a sales problem. (Complaint/Delay)
+* **Shutd0wn → lengmo:** Expresses dissatisfaction with payment progress despite receiving a thank-you letter. (Complaint/Delay)
+* **Shutd0wn → lengmo:** Asks when a contract will be signed and payment made. (Inquiry/Delay)
+* **Shutd0wn → lengmo:** Direct request for "Payment!!!" (Complaint/Delay)
+* **lengmo → Shutd0wn:** Expects projects to be paid within the month. (Timeframe)
+* **Shutd0wn → lengmo:** Mentions payment being linked to supply. (Condition of Payment)
+* **Shutd0wn → lengmo:** References the process from sales order to payment receipt. (Process Mention)
+* **Shutd0wn → lengmo:** Asks for the status of the Shaanxi payment on the 21st. (Inquiry/Delay)
+* **lengmo → Shutd0wn:** States receiving an initial payment of 500k is needed, with several million expected by year-end. (Amounts: 500k, several million)
+* **Shutd0wn → lengmo:** Complains about not receiving payment for another month. (Complaint/Delay)
+* **Shutd0wn → lengmo:** Urges quick action on payment. (Complaint/Delay)
+* **Shutd0wn → lengmo:** States several hundred thousand has been advanced for Yancheng, awaiting payment. (Amount: several hundred thousand)
+* **Shutd0wn → lengmo:** Questions whether payment for Lhasa will be delayed (through Zhaowu) and if payment will be received by 7.10. (Inquiry/Delay)
+* **lengmo → Shutd0wn:** Zhaowu promised payment upon receiving funds. (Process Mention)
+* **Shutd0wn → lengmo:** Urges urgent follow-up on payment. (Complaint/Delay)
+* **Shutd0wn → lengmo:**  States it is unacceptable to make employees wait for payment before issuing salaries. (Policy/Concern)
+* **lengmo → Shutd0wn:** States all three locations want a down payment first. (Condition of Payment)
+* **lengmo → Shutd0wn:** New employee will have a monthly salary of 10k plus standard commission. (Amount: 10k)
+* **lengmo → Shutd0wn:** Discusses a potential employee wanting a 12k salary but negotiating down to align with company standards. (Amount: 12k)
+* **lengmo → Shutd0wn:** Mentions remaining balance to be paid for Si Xu's work. (Unspecified Amount)
+* **lengmo → Shutd0wn:** Asks when rent can be paid and roughly when payment will be made. (Inquiry)
+* **lengmo → Shutd0wn:** Mentions payment being confirmed after data submission from Yangbi County Bureau. (Process Mention)
+* **Shutd0wn → lengmo:** States only 50% of payment has been received for 1-2 projects. (Amount: 50%)
+* **lengmo → Shutd0wn:** Mentions legal consultation for third-party payment. (Process Mention)
+* **lengmo → Shutd0wn:** Mentions third-party payment costing several hundred thousand a year. (Amount: several hundred thousand)
+* **lengmo → Shutd0wn:** States payment is being processed and awaiting signature for release. (Process Mention)
+* **Shutd0wn → lengmo:** Questions why Shaanxi project payment hasn't been unlocked. (Inquiry/Delay)
+* **lengmo → Shutd0wn:** Potential refund of one percentage point of costs to cover expenses. (Percentage: 1%)
+* **lengmo → Shutd0wn:** Mentions potential employee returning after receiving a year-end bonus from Qixin. (Bonus Mention)
+
+### Batch 5
+Here's a structured analysis of the provided messages, focusing solely on compensation/payment-related content, with attribution and specific data points:
+
+* **lengmo → Shutd0wn:** Mentions revenue confirmation issues impacting billing for two projects; Xu Qian expressed dissatisfaction with year-end compensation and requests potential company compensation.
+* **Shutd0wn → lengmo:**  References a system allowing advance invoicing with timeframe stipulations.
+* **lengmo → Shutd0wn:** Suggests a bonus package to appease employees due to project invoicing delays (potentially due to epidemic) until after Spring Festival.
+* **Shutd0wn → lengmo:** States 2021 expenses were 30 million, cash income 24 million, resulting in negative 7 million cash flow.
+* **lengmo → Shutd0wn:** Mentions a minimum income threshold of 100,000 RMB for pursuing arrests related to earnings.
+* **Shutd0wn → lengmo:** Confirms payment will be made this week.
+* **Shutd0wn → lengmo:** Personal statement about needing to make a loan payment next month.
+* **lengmo → Shutd0wn:** Business Department responsible for pricing and payment methods for third-party products.
+* **lengmo → Shutd0wn:** Business Department responsible for negotiating prices and payment terms.
+* **lengmo → Shutd0wn:** Prioritizes client appeasement and acceptance/payment of leads.
+* **Shutd0wn → lengmo:** Announces a new policy requiring payment *before* delivery for all supplies and services, even non-subcontracted ones.
+* **Shutd0wn → lengmo:** Requests follow-up on payment from Jiangsu.
+* **Shutd0wn → lengmo:** Urges speedy acceptance and payment.
+* **wxid_5390224027312 → wxid_70w3p1jin84k22:** States payment from Qixin (Qi An Xin) hasn’t arrived.
+* **wxid_70w3p1jin84k22 → wxid_5390224027312:**  Indicates a client is urging payment to a subcontractor.
+* **wxid_70w3p1jin84k22 → wxid_5390224027312:** Asks if salary increases are not possible.
+* **wxid_5390224027312 → wxid_70w3p1jin84k22:** States salary may not be high.
+* **wxid_70w3p1jin84k22 → wxid_5390224027312:** Confirms lack of knowledge about the salary amount.
+* **wxid_70w3p1jin84k22 → wxid_5390224027312:** Reports customers are rushing payment.
+* **wxid_70w3p1jin84k22 → wxid_5390224027312:** States the Jiangsu project has the same issue – customers urging payment due to isolation.
+* **wxid_5390224027312 → wxid_70w3p1jin84k22:** Reports they haven't received this month’s payment.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:**  Mentions previous dissatisfaction with year-end bonus and potential leaving.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** Asks about a raise not being approved.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** Suggests comparing the annual salary document.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** Requests a monthly salary.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** Notes year-end bonus depends on the company.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** Believes a lack of year-end bonus would cause departure.
+* **wxid_nv9bv435fz3722 → wxid_70w3p1jin84k22:** Asks if all 13 months' salary is correct.
+* **wxid_70w3p1jin84k22 → wxid_nv9bv435fz3722:** States the technical line received a 13th month salary, discounted to 0.8, 0.5, and 0.4.
+* **wxid_nv9bv435fz3722 → wxid_70w3p1jin84k22:** Indicates pre-sales no longer receives a 14th month salary.
+
+### Batch 6
+## Data Extraction & Structured Summary from Provided Text
+
+Here's a structured list of bullet points summarizing data-based content from the provided text, with clear attribution where possible.  This focuses on quantifiable details and avoids subjective interpretations.
+
+**I. Data Volume & Timeframe (Project Scope - Table Reference)**
+
+*   **Total Data Volume:** 700,000,000 entries.
+*   **Data Collection Period:** April 9th, 2018 – February 17th, 2022.
+*   **Communication Source:**  Data originates from messaging platforms (likely WeChat, based on `wxid_` identifiers).
+
+**II. Financial & Compensation Details (from Message Exchanges)**
+
+*   **2019 Salary (Employee - 'just910420'):** 10,200 (currency not specified, presumed RMB) before tax.
+    *   Year-end bonus in 2019: Not specifically stated, but considered "not as expected."
+*   **2020 Salary (Employee - 'just910420'):** 11,700 (currency not specified, presumed RMB) before tax (including 200 confidentiality fee).
+*   **Previous Salary (Employee - 'just910420' - 2017):** 7,500 (currency not specified, presumed RMB) initially, 8,000 at Hikvision.
+*   **2018 Salary Increase:** 1,000 (currency not specified, presumed RMB) increase for employee.
+*   **Confidentiality Fee (2020):** 200 (currency not specified, presumed RMB) for employee.
+*   **Year-End Bonus (2019 – Technical Team):** Several members received less than employee 'just910420'.
+*   **Sales Commission - 2020:**  Low commission rates, adjusted in 2020.
+*   **Compensation Dispute:** Potential two-month compensation payment being discussed for departing employee.
+*   **Arbitration:** Potential for arbitration if compensation negotiations fail.
+*   **Compensation Expectation:** Employee 'wxid_5390224027312' desires "fair" compensation or a uniform standard.
+
+**III. Project and Deal Status**
+
+*   **Unpaid Projects:** Multiple projects reportedly have not received payment.
+*   **Sales Performance:** Some sales employees have not closed deals for 2-3 years.
+
+**IV. Messaging Statistics (Indirect Data – Indicates Activity)**
+
+*   Numerous message exchanges between individuals (e.g., 'just910420' and 'lengmo', and 'wxid_...' identifiers). Indicating significant communication volume.
+*   Specific identification and attribution of message senders and recipients.
+
+**V.  Technical Team & Sales Relationship**
+
+*   Technical team performance perceived to be tied to sales commissions.
+
+**Important Note:**  This extraction focuses *solely* on directly stated quantifiable data.  Much of the text contains opinions, feelings, and context that are excluded to maintain objectivity. Currency is also not specified.
+
+### Batch 7
+## Structured List of Attributed & Data-Based Content (From Provided Text)
+
+Here's a structured list, focusing on factual information and attributed to the source within the provided text (primarily chat logs and OCR'd documents).  I've categorized for clarity.
+
+**I. Salary & Compensation Discussions:**
+
+*   **Salary Withholding/Reduction:** Multiple individuals express concerns about salary being withheld or reduced.
+    *   "This month everyone received 2000 yuan in salary, no one met their performance goals, and it was all deducted." (gzp1991101 → wxid_mgh25nentc4u22)
+    *   "Luckily, my new company didn't withhold my salary." (wxid_mgh25nentc4u22 → gzp1991101)
+    *   "I'm afraid they'll split it into performance-based and base salary, and then the compensation will be calculated based on the base salary." (wxid_7p054rmzkhqf21 → gzp1991101)
+    *    “I feel they won't directly offer compensation; it's more likely they'll reduce salaries and wait for you to become unable to stay and resign on your own.” (wxid_7p054rmzkhqf21 → gzp1991101)
+*   **Salary Frequency:**  Mention of "monthly payment." (wxid_hlmnhsq64tt722 → ken73224)
+*   **Lack of Raises:** "It's been three years since my salary was raised." (wxid_icges6alg8cl21 → wxid_kbys0kvzj4ta12)
+*  **Commission/Bonus:** Mention of offering "10 points of commission" to help increase income. (qq78263462 → wxid_5390224027312)
+
+**II. Payment & Financial Transactions:**
+
+*   **Payment Method:** Discussions around "Cash/Credit card etc." as payment methods. (OCR'd Document).
+*   **Payment Limits:**  Question regarding limitations on the amount for "all websites of this money laundering platform." (wxid_5390224027312 → wxid_wh6x59w70y3r22)
+*   **Payment Refund:** Question asking if a payment for "Shenzhen" has been refunded. (wxid_5390224027312 → wxid_wh6x59w70y3r22)
+*   **Payment First:**  Question about whether "payment comes first, then data" in a transaction. (wxid_5390224027312 → wxid_wh6x59w70y3r22)
+*  **One-Time Payment**: Multiple mentions of "one-time payment" inquiries and confirmations. (wxid_5390224027312 → wxid_wh6x59w70y3r22)
+
+**III. Data Integration & OCR Document Details (From OCR'd Documents):**
+
+*   **Passenger Data:**  Data integration focuses on: Ticket number, Payment method, Passenger information (Name, Date of Birth, ID number), Contact Information (Phone Number, Email Address).
+*   **SSR/CTCE Subfield ID Issues**: Mention of representative IDs 8, 8, 15, 40, 88, which are not unique and lead to data loss during merging.
+*   **Data Loss Concern:** Data integration might lead to loss of fields if unique identifiers are not used.
+*   **AP35 Example:** Data integration of fields like "ALA +7 727 3269080 - SHAKH (INTERNET T0URISM) - A ## 7701 7351 SB 5 ### 770 17351535" results in less readable format.
+*   **Technical Recommendation:** Data integration is only recommended if the above fields (Ticket, Payment, Passenger, Contact) are the only ones needed. Otherwise, it's discouraged due to lower recognition accuracy.
+
+**IV.  Project/Hiring Plans:**
+
+*   **Hiring a Technical Person:** Plan to hire a technical person to help with public security and other tasks. (wxid_7p054rmzkhqf21 → gzp1991101)
+* **Red Envelope Bonus:** The individual plans to offer "red envelopes" as bonuses to the new hire. (wxid_7p054rmzkhqf21 → gzp1991101)
+
+
+
+**Note:** I've focused solely on factual data and attributed it to the source. I've omitted opinions, speculation, and conversational fluff.  The attribution provides context and helps verify the information.

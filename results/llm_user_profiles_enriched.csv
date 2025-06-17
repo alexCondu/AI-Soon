@@ -1,0 +1,11 @@
+username,name,real_name,real_name_confidence,company,website,position,position_confidence,message_count,conversation_partners
+SWEET5683yao,Brother Qing,Chen Qing,0.95,"Anxun Information Technology Co., Ltd.",www.I-soon.net,Project Manager,0.75,35,wxid_7p054rmzkhqf21
+Shutd0wn,Mr. Wu,Wu Haibo,0.85,"Anxun Information Technology Co., Ltd.",www.I-soon.net,General Manager,0.75,3675,"lengmo, wxid_xusilpfkh31g21"
+adpw90,Mr. Zheng,Zheng Wei,0.85,"Anxun Information Technology Co., Ltd.",www.I-soon.net,Team Lead,0.75,235,wxid_7p054rmzkhqf21
+gzp1991101,Mr. Gong,Gong Tao,0.85,"Anxun Information Technology Co., Ltd.",www.I-soon.net,General Manager,0.9,603,"wxid_7p054rmzkhqf21, wxid_mgh25nentc4u22, yanzi542766277"
+lengmo,Mr. C,[parse error],0.0,"Anxun Information Technology Co., Ltd.",www.I-soon.net,[parse error],0.0,4981,"Shutd0wn, just910420, wxid_5390224027312, wxid_zbytkn4qjl3r22, zhangxiaoyan0422"
+nullroot,Mr. Zhou,[parse error],0.0,"Anxun Information Technology Co., Ltd.",www.I-soon.net,[parse error],0.0,103,"tianyi-0608, wei592628"
+wei592628,Mr. Wei,[parse error],0.0,"Anxun Information Technology Co., Ltd.",www.I-soon.net,[parse error],0.0,87,nullroot
+wxid_5390224027312,Mr. Wang,[parse error],0.0,"Anxun Information Technology Co., Ltd.",www.I-soon.net,[parse error],0.0,1409,"dujijiyiqxx, lengmo, qq78263462, wxid_70w3p1jin84k22, wxid_7p054rmzkhqf21, wxid_soekgggwnfgm21, wxid_wh6x59w70y3r22"
+wxid_70w3p1jin84k22,Sister Qian,Xu Qian,1.0,"Anxun Information Technology Co., Ltd.",www.I-soon.net,Training Manager,0.9,523,"wxid_5390224027312, wxid_nv9bv435fz3722"
+wxid_7p054rmzkhqf21,Mr. Lu,Lu Yongjun,0.95,"Anxun Information Technology Co., Ltd.",www.I-soon.net,President,0.85,894,"SWEET5683yao, adpw90, gzp1991101, wangchao953541, wxid_5390224027312, wxid_jcnxegjccqi441"
