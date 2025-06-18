@@ -65,5 +65,37 @@ ollama pull mxbai-embed-large
 - Performs salary and compensation pattern analysis.
 - Attempts Retrieval-Augmented Generation (RAG) for financial document insights.
 
+
+## Results
+### Company profile
+| Company Name | Website | Confidence |
+|----------|----------|----------|
+| Anxun Information Technology Co,. Ltd,.  | I-soon.net | 1.0  |
+
+### User profiles 
+| username            | name         | real_name     | real_name_confidence | company                           | website        | position         | position_confidence | message_count | conversation_partners             |
+|:--------------------|:-------------|:--------------|----------------------:|:----------------------------------|:---------------|:------------------|----------------------:|---------------:|:----------------------------------|
+| SWEET5683yao        | Brother Qing | Chen Qing     | 0.95                  | Anxun Information Technology C... | www.I-soon.net | Project Manager   | 0.75                  | 35             | wxid_7p054rmzkhqf21               |
+| Shutd0wn            | Mr. Wu       | Wu Haibo      | 0.85                  | Anxun Information Technology C... | www.I-soon.net | General Manager   | 0.75                  | 3675           | lengmo, wxid_xusilpfkh31g21       |
+| adpw90              | Mr. Zheng    | Zheng Wei     | 0.85                  | Anxun Information Technology C... | www.I-soon.net | Team Lead         | 0.75                  | 235            | wxid_7p054rmzkhqf21               |
+| gzp1991101          | Mr. Gong     | Gong Tao      | 0.85                  | Anxun Information Technology C... | www.I-soon.net | General Manager   | 0.90                  | 603            | wxid_7p054rmzkhqf21, wxid_mgh2... |
+| lengmo              | Mr. C        | [parse error] | 0.00                  | Anxun Information Technology C... | www.I-soon.net | [parse error]     | 0.00                  | 4981           | Shutd0wn, just910420, wxid_539... |
+| nullroot            | Mr. Zhou     | [parse error] | 0.00                  | Anxun Information Technology C... | www.I-soon.net | [parse error]     | 0.00                  | 103            | tianyi-0608, wei592628            |
+| wei592628           | Mr. Wei      | [parse error] | 0.00                  | Anxun Information Technology C... | www.I-soon.net | [parse error]     | 0.00                  | 87             | nullroot                          |
+| wxid_5390224027312  | Mr. Wang     | [parse error] | 0.00                  | Anxun Information Technology C... | www.I-soon.net | [parse error]     | 0.00                  | 1409           | dujijiyiqxx, lengmo, qq7826346... |
+| wxid_70w3p1jin84k22 | Sister Qian  | Xu Qian       | 1.00                  | Anxun Information Technology C... | www.-soon.net | Training Manager  | 0.90                  | 523            | wxid_5390224027312, wxid_nv9bv... |
+| wxid_7p054rmzkhqf21 | Mr. Lu       | Lu Yongjun    | 0.95                  | Anxun Information Technology C... | www.I-soon.net | President         | 0.85                  | 894            | SWEET5683yao, adpw90, gzp19911... |
+
+### Financial Structures - Salaries
+
+#### Salary History (Employee: `just910420`)
+
+| Year | Company | Base Salary (CNY, Before Tax) | Bonus/Extras                                   | Notes                      |
+|------|---------|-------------------------------|------------------------------------------------|----------------------------|
+| 2017 | Anxun   | 7,500                         | –                                              | –                          |
+| 2018 | Anxun   | 8,500                         | –                                              | –                          |
+| 2019 | Anxun   | 10,200                        | 2.5 months year-end bonus                      | –                          |
+| 2020 | Anxun   | 11,700                        | 200 CNY confidentiality fee                    | Promotion to supervisor    |
+
 ---
 
