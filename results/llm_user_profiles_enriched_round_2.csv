@@ -1,0 +1,11 @@
+real_name,real_name_confidence,position,position_confidence,date_of_birth,age,education,place_of_birth,username,name,company,website,message_count,conversation_partners
+Wu Weiwei,0.6,Sales Engineer,0.7,1987-10-10,34,College,Jiangxi Province,SWEET5683yao,Brother Qing,"Anxun Information Technology Co., Ltd.",www.I-soon.net,35,wxid_7p054rmzkhqf21
+Zheng Huadong,0.9,Confidentiality Supervisor/Deputy Team Leader,0.9,1986-02-21,36,College,Zhejiang Huangyan,adpw90,Mr. Zheng,"Anxun Information Technology Co., Ltd.",www.I-soon.net,235,wxid_7p054rmzkhqf21
+Gong Zhi,0.8,Confidential Computer Security Administrator,0.7,1995-12-09,26,Bachelor's,Sichuan/Neijiang,gzp1991101,Mr. Gong,"Anxun Information Technology Co., Ltd.",www.I-soon.net,603,"wxid_7p054rmzkhqf21, wxid_mgh25nentc4u22, yanzi542766277"
+Chen Cheng,0.8,Legal Representative/General Manager/Team Leader,0.9,1984-10-20,37,Associate Degree,Jiangsu Yancheng,lengmo,Mr. C,"Anxun Information Technology Co., Ltd.",www.I-soon.net,4981,"Shutd0wn, just910420, wxid_5390224027312, wxid_zbytkn4qjl3r22, zhangxiaoyan0422"
+Zhou Weiwei,0.8,Sales Engineer,0.9,1987-10-10,34,College,Jiangxi Jiujiang,nullroot,Mr. Zhou,"Anxun Information Technology Co., Ltd.",www.I-soon.net,103,"tianyi-0608, wei592628"
+Wei Li,0.8,Software Development Engineer,0.9,1995-12-09,26,Bachelor's,Sichuan/Neijiang,wei592628,Mr. Wei,"Anxun Information Technology Co., Ltd.",www.I-soon.net,87,nullroot
+Wang Zhi,0.8,Safety Department General Manager,0.9,1980-04-08,42,College,Sichuan/Chengdu,wxid_5390224027312,Mr. Wang,"Anxun Information Technology Co., Ltd.",www.I-soon.net,1409,"dujijiyiqxx, lengmo, qq78263462, wxid_70w3p1jin84k22, wxid_7p054rmzkhqf21, wxid_soekgggwnfgm21, wxid_wh6x59w70y3r22"
+Qian Xiaoxi,0.8,Sales Assistant,0.9,1989-05-18,33,Bachelor's,Chongqing Rongchang,wxid_70w3p1jin84k22,Sister Qian,"Anxun Information Technology Co., Ltd.",www.I-soon.net,523,"wxid_5390224027312, wxid_nv9bv435fz3722"
+Lu Zhi,0.0,,0.0,Age:,,Place of Birth:,,wxid_7p054rmzkhqf21,Mr. Lu,"Anxun Information Technology Co., Ltd.",www.I-soon.net,894,"SWEET5683yao, adpw90, gzp1991101, wangchao953541, wxid_5390224027312, wxid_jcnxegjccqi441"
+Wu Haibo,,General Manager,,,,,,Shutd0wn,Mr. Wu,"Anxun Information Technology Co., Ltd.",www.I-soon.net,3675,"lengmo, wxid_xusilpfkh31g21"
