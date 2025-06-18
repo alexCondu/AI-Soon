@@ -8,8 +8,9 @@
 
 This Jupyter Notebook (`main.ipynb`) presents AI-Soon, a modular end-to-end data analysis pipeline tailored for handling compressed datasets containing diverse file formats for the I-Soon leak or generic use (e.g., `.md`, `.txt`, `.log`, `.png`). It performs a series of structured operations including extraction, parsing, large language model (LLM)-based classification, multilingual translation, and domain-specific analysis. This pipeline is applicable in cybersecurity, digital forensics, and business intelligence domains.
 
-
-
+## Built with
+- Python Version 3.11.8
+- JupyterLab Version 3.6.8
 
 ## Requirements
 
@@ -29,18 +30,18 @@ ollama pull mxbai-embed-large
 ## 1. **Raw Data Extraction From ZIP**
 - This uncompresses the zip file and sorts all the data generically based on the identified extensions, creating a convenient setup for further analysis.
 
-## 2. **DATA Parsing**
+## 2. **Data Parsing**
 - Creates a dataframe with full file paths.
 - Applies format-specific parsing:
   - Markdown (`.md`) → CSV conversations.
   - Text (`.txt`) and log files (`.log`) → structured tabular form.
   - PNG images (`.png`) → processed via OCR into CSV. (image parsing can be obtained from a .py file located outside
 
-## 3. **Large Language Model Classification**
+### 1. **Large Language Model Classification**
 - Uses LLMs (e.g., `Gemma-3 27B`) to classify content within `.md` files.
 - Cross-references files to discover interdependencies or related content.
 
-## 3. ** DATA Translation Pipeline**
+## 3. **Data Translation Pipeline**
 - To effectively run LLMs with Threadpool executor, utilize the following:
     ```bash
     export OLLAMA_NUM_PARALLEL=8             # Run 8 translations in parallel - depending on the Number of GPUs available
